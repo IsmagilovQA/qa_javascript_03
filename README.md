@@ -8,7 +8,7 @@ JavaScript fundamentals course
 3. Lesson (if..else,switch)
 4. Lesson (loops) 
 5. Lesson (loops) 
-6 Lesson(functions)
+6. Lesson(functions)
 7. Lesson (array’s methods)
 8. Lesson (array’s methods)
 9. Lesson (string’s methods)

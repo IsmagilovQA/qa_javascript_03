@@ -148,12 +148,6 @@ STUDENTS HOMEWORK - LESSON 1
 // console.log(firstName + '.' + lastName + '.com');
 
 
-//21. Three boys have three boxes. Each boy has 120lbs of weight. Each box has 2 lbs of apples inside. 
-// One boy ate half of the box of apples in his box.  
-// Question: What is the total lbs boys and apples together? Create the variables and count the amount.
-//console.log('????');
-
-
 //22. Please concatenate “I”, “ and my friends”, “ love QA_FOR_EVERYONE”, to have only one full string line. 
 //And count the length of the string. 
 //console.log('I' + ' and my friends' + ' love QA_FOR_EVERYONE');
@@ -209,14 +203,6 @@ STUDENTS HOMEWORK - LESSON 1
 //     fruit = 0.95;
 // let total = sandwich + fruit;
 // console.log(`'Jane paid for her lunch' ${total}`);
-
-
-//29. Here is the data set: 9, 10, 12, 13, 13, 13, 15, 15, 16, 16, 18.
-// Find and print:
-// Mean
-// Median
-// Mode
-//console.log('????');
 
 
 //31. Create variables "a"  with value 15 and "b" with value 18.  Assign the value of the doubled sum of the 

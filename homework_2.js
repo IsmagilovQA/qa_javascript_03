@@ -114,7 +114,7 @@
 
 //8. Transfer 7 to boolean
 // let num = 7;
-// num = !num;  // Transfer 7 to boolean. Aslo can be transfer to boolean and make it oposite -> !!num;
+// num = !!num;  // Transfer 7 to boolean
 // console.log(Boolean(7)); // another option to convert number to string
 // console.log(Number(true)); // convert boolean to number
 // console.log(String(8)); // convert number to string
